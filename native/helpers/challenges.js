@@ -472,6 +472,13 @@ export const challenges = [
     developer: 'sadanandpai',
     tags: [],
   },
+  {
+    title: 'Temperature Converter',
+    link: 'temperature-converter',
+    difficulty: 'hard',
+    developer: 'vivek Kumar',
+    tags: [],
+  },
   { title: 'Emoji Editor', link: '#' },
   { title: 'Sort Table', link: '#' },
   { title: 'Infinite Scroll', link: '#' },
