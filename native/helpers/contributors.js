@@ -82,6 +82,10 @@ export const contributors = new Map([
     'sujitmahapatra',
     { name: 'Sujit Mahapatra', pic: 'https://avatars.githubusercontent.com/u/127632703?v=4' }
   ],
+ [
+    'vivek Kumar',
+    { name: 'vivek Kumar', pic: 'https://avatars.githubusercontent.com/u/35356580?v=4' },
+  ],
   [
     'pranav514',
     { name: 'Pranav', pic: 'https://avatars.githubusercontent.com/u/76992202?v=4'}
